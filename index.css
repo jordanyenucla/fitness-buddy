@@ -1,7 +1,18 @@
-.meals button {
-    margin: 0 0 0 10px;
+body {
+    margin: 0;
+    padding: 0;
 }
 
-.calories .row {
-    margin: 20px 0 50px 0;
+.row {
+    margin: 0 0 30px 0;
+}
+
+.title {
+    text-align: center;
+    margin: 0 0 50px 0;
+}
+
+.exercises {
+    border: 1px solid black;
+    margin: 0 auto;
 }
